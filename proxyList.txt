@@ -14796,3 +14796,4 @@
 98.98.236.58,15608,AE,Zenlayer Inc
 99.79.195.241,443,CA,Amazon.com, Inc.
 99.79.54.244,8443,CA,Amazon.com, Inc.
+172.104.170.159,8443,SG,Akamai Connected Cloud 
